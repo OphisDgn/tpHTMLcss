@@ -1,2 +1,4 @@
 # tpHTMLcss
-Ceci le tp de HTML / CSS.
+Ceci est mon dépôt Github
+
+LIEUTAUD Céline
