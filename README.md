@@ -1,2 +1,2 @@
 # tpHTMLcss
-Voici le tp de HTML / CSS 
+Ceci le tp de HTML / CSS.
