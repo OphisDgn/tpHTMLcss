@@ -8,7 +8,7 @@ body {
 header {
     display: flex;
     height: 50px;
-    background-color: cadetblue;
+    background-color: lightgrey;
     flex-wrap: wrap;
     text-align: center;
 }
@@ -16,41 +16,32 @@ header {
 footer {
     position: fixed;
     display: block;
-    background-color: aliceblue;
+    background-color: white;
     margin: 0;
     padding: 0;
 }
 
 div#logo-container {
     text-align: left;
+    flex-grow: 1;
 }
 
 ul#menu {
     padding: 0;
     margin: 0;
+    flex-grow: 1;
 }
 
 ul#menu li{
     display: inline;
 }
 
-div {
-    flex-grow: 1;
-    border: 1px black solid;
-}
-
-/*div#anglais {
-    flex-grow: 2;
-    border: 1px black solid;
-}*/
-
 img#logo {
-    height: 40px;
+    height: 50px;
 }
 
 div#prenom-nom {
-    flex-grow: 2;
-    border: 1px black solid;
+    flex-grow: 1;
 }
 
 section#content {
@@ -68,17 +59,4 @@ section#content {
     display: block;
 }
 
-@media screen and (min-width: 100px) and (max-width: 1500px) {
-section#content {
-    background-color: aliceblue;
-}   
-.main {
-    background-color: aliceblue;
-    text-align: center;
-    color: black;
-    }
-.notShowXS {
-    display: none;
-    color: black;
-    }
-}
+
