@@ -34,6 +34,7 @@ ul#menu {
 
 ul#menu li{
     display: inline;
+    border: 1px black solid;
 }
 
 img#logo {
@@ -42,6 +43,7 @@ img#logo {
 
 div#prenom-nom {
     flex-grow: 1;
+    border: 1px black solid;
 }
 
 section#content {
