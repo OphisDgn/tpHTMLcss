@@ -18,7 +18,6 @@ footer {
     display: block;
     background-color: white;
     margin: 0;
-    bottom: 0;
     padding: 0;
 }
 
@@ -41,8 +40,4 @@ div#promo {
     flex-grow: 1;
     border: 1px black solid;
     background-color: darkgrey;
-}
-
-.first {
-    color: black;
 }
