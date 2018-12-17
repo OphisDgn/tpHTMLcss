@@ -8,7 +8,7 @@ body {
 header {
     display: flex;
     height: 50px;
-    background-color: lightgrey;
+    background-color: white;
     flex-wrap: wrap;
     text-align: center;
 }
@@ -45,4 +45,5 @@ div#promo {
 
 .first {
     color: black;
+    background-color: floralwhite;
 }
