@@ -1,8 +1,16 @@
-/* body {
-    position: relative;
-    display: block;
-    background-color: white;
-    margin: 0;
-    padding: 0;
+header {
+    background-color: chocolate;
 }
-*/
+
+#barre {
+    margin-left: -300px;
+    margin-right: -300px;
+}
+
+li {
+    display: inline;
+}
+
+.nav_item {
+    color: white;
+}
