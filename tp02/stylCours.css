@@ -1,0 +1,22 @@
+header {
+    background-color: lightyellow;
+    text-align: center;
+}
+
+#barre {
+    margin-left: -300px;
+    margin-right: -300px;
+}
+
+li {
+    display: inline;
+}
+
+.list-inline {
+
+    vertical-align: middle;
+}
+
+h4 {
+    text-align: center;
+}
