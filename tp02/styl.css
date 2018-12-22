@@ -1,3 +1,12 @@
+body {
+    color:black;
+    background-color:white;
+    background-image: url(images/fond.png);
+    background-repeat: repeat-y;
+    background-size: 1550px;
+    background-attachment:fixed;
+}
+
 header {
     background-color: blanchedalmond;
     text-align: center;
@@ -19,4 +28,8 @@ table {
 
 th, td {
      border: black 1px solid;
+}
+
+h6 {
+    text-align: center;
 }

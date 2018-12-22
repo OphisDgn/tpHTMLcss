@@ -1,26 +1,31 @@
-#debut {
-    background-image: url(images/background.jpg);
+body {
+    color:black;
+    background-color:white;
+    background-image: url(images/fond.png);
+    background-repeat: repeat-y;
+    background-size: 1550px;
+    background-attachment:fixed;
 }
 
 header {
-    background-color: blanchedalmond;
+    background-color: lightyellow;
     text-align: center;
 }
 
 #barre {
-    margin-left: -100px;
-    margin-right: -100px;
+    margin-left: -300px;
+    margin-right: -300px;
 }
 
 li {
     display: inline;
 }
 
-table {
-   
-    border-collapse: collapse;
+.list-inline {
+
+    vertical-align: middle;
 }
 
-th, td {
-     border: black 1px solid;
+h6 {
+    text-align: center;
 }
