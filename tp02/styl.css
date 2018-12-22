@@ -1,5 +1,6 @@
 header {
-    background-color: chocolate;
+    background-color: blanchedalmond;
+    text-align: center;
 }
 
 #barre {
@@ -11,6 +12,11 @@ li {
     display: inline;
 }
 
-.nav_item {
-    color: white;
+table {
+   
+    border-collapse: collapse;
+}
+
+th, td {
+     border: black 1px solid;
 }

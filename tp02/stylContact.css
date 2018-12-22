@@ -1,0 +1,26 @@
+#debut {
+    background-image: url(images/background.jpg);
+}
+
+header {
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+#barre {
+    margin-left: -100px;
+    margin-right: -100px;
+}
+
+li {
+    display: inline;
+}
+
+table {
+   
+    border-collapse: collapse;
+}
+
+th, td {
+     border: black 1px solid;
+}

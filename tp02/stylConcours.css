@@ -1,0 +1,15 @@
+header {
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+#barre {
+    margin-left: -300px;
+    margin-right: -300px;
+}
+
+li {
+    display: inline;
+}
+
+
