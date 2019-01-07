@@ -11,7 +11,12 @@ table {
 #graph {
     margin-top: 50px;
     margin-left: 150px;
-    margin-right: 150px;
-    height: 700px;
-    width: 1000px;
+    margin-right: 200px;
+    height: 650px;
+    width: 1200px;
 }
+
+.table-striped>tbody>tr:nth-child(odd)>td, 
+.table-striped>tbody>tr:nth-child(odd)>th {
+   background-color: darkgrey;
+ }
