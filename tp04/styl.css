@@ -1,0 +1,19 @@
+header {
+    display: inline;
+    background-color: darksalmon;
+}
+
+li {
+    margin-top: -70px;
+    margin-right: 30px;
+}
+
+#logo {
+    margin-left: 100px;
+    height: 100px;
+    width: 100px;
+}
+
+h4 {
+    text-align: center;
+}
